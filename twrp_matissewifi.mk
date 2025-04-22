@@ -31,7 +31,7 @@ PRODUCT_AAPT_PREF_CONFIG := xhdpi
 # Device identifier. This must come after all inclusions
 PRODUCT_RELEASE_NAME := matissewifi
 PRODUCT_DEVICE := matissewifi
-PRODUCT_NAME := omni_matissewifi
+PRODUCT_NAME := twrp_matissewifi
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-T530
 
